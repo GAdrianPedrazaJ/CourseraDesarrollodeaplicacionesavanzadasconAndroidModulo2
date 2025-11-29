@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Petagram</string>
+    <string name="title_petagram">Petagram</string>
+    <string name="btn_configurar">Configurar cuenta</string>
+</resources>
